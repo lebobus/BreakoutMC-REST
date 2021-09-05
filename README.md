@@ -16,4 +16,7 @@ Easy to use REST API for BreakoutMC using nodejs.
 | :----- | :-------------- | :-------  | :------------------------- |
 | `GET`  | `/users/:uuid`  | `UUID`    | JSON list of selected user. |
 
-  
+
+## License
+
+[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
